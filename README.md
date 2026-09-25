@@ -8,8 +8,11 @@ English | [简体中文](README_zh.md) | [Website / Docs](https://edison-land.gi
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: macOS | Windows](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey.svg)]()
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-yellow.svg)]()
-[![Follow on X](https://img.shields.io/badge/X-@Edison__aware-black?logo=x)](https://x.com/Edison_aware)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/paragravity?style=social)](https://github.com/realchendahuang/paragravity)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/paragravity?style=social)](https://github.com/realchendahuang/paragravity/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/paragravity)](https://github.com/realchendahuang/paragravity/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/paragravity/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
